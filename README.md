@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React JS and Nest JS.
 - 💞️ I’m looking to collaborate on web development related projects.
-- 📫 How to reach me pujankhanalofficial@gmail.com
+- 📫 How to reach me pujankhanal698@gmail.com
+- My portfolio https://www.pujankhanal.com.np/ 
 - ⚡ Fun fact: Did you Know that Australia is wider than the moon.
 
 <!---
